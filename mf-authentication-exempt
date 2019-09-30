@@ -1,0 +1,10 @@
+{
+  "data": {
+    "mfExemptOrganizations: [
+      {
+        "id": 1,
+        "name": "Hypercare"
+      }
+    ]
+  }
+}
